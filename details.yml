@@ -1,51 +1,32 @@
 ---
 # Personal details
-name: Friedrich Nietzsche
+name: lazaros papanikolaou
 address:
-- Humboldtstraße 36
-- 99425 Weimar
-- Prussia
-phone: "+49 03643 545400"
-email: friedrich@thevoid.de
+- 2 parodos basileiou
+- corfu
+email: lazaros.papanikolaoy@gmail.com
 # Insert URLs without http://
 urls:
-- wki.pe/friedrich_nietzsche
-- twitter.com/tinynietzsche
+- https://www.facebook.com/profile.php?id=100008230579016
+- https://www.instagram.com/lazaros_papanikolaou/
 
 # Sections
 
-intro: "I know my fate. One day my name will be associated with the memory of something tremendous --- a crisis without equal on earth, the most profound collision of conscience, a decision that was conjured up against everything that had been believed, demanded, hallowed so far. I am no man, I am dynamite."
-
+intro: "I know what i want to accomplish in the future. 
 skills:
-- Aesthetics, Ethics, Metaphysics, Nihilism
-- Psychology, Ontology, Poetry, Value theory
-- Voluntarism, Tragedy, Fact–value distinction
-- Anti-foundationalism, Philosophy of history
-
+- Aesthetics, jumpman, 
+Christian orthodox
+-baskteball player, hacker
 experience:
-- years: 1879--1889
-  employer: Freiberufler
-  job: Freier Philisoph
-  city: Sils-Maria
-- years: 1869–-1879
-  employer: Universität Basel
-  job: Professor für klassische Philologie
-  city: Basel
-- years: 1867--1868
-  employer: Preußischen Artillerie
-  job: Kanonier
-  city: Naumburg
-
+- years: 2017--2018
+  job: colleger
+  city: Corfu
 education:
-- year: 1867
-  subject: Philology
-  institute: Leipzig Universität
-  city: Leipzig
-- year: 1864
-  subject: Abitur
-  institute: Schulpforta
-  city: Naumburg
-
+- year: 2017
+  subject: informatics
+  institute: ionian university
+  city: Corfu
+  
 # Settings
 mainfont: Hoefler Text
 fontsize: 10pt
